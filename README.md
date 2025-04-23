@@ -12,7 +12,7 @@
 The Uber Travel Analysis Project aims to explore and understand user travel patterns through Uber's services. Leveraging a comprehensive dashboard, this project analyzes various aspects of Uber trips, including trip categories, peak travel hours, trip purposes, distances covered, and the busiest days and months. The analysis also investigates the most popular starting locations for Uber rides, providing a clear picture of where demand is highest.
 
 By visualizing these data points, the project offers insights into user behavior, such as when people are most likely to take Uber, the motivations behind their trips, and the typical distances they travel. These insights can help Uber optimize its operations, ensuring better resource allocation during peak periods and improving service quality in high-demand areas. Ultimately, this project provides a data-driven perspective on Uber travel trends, supporting decision-making for both service providers and stakeholders.
-# Hi, Emmanuel Olaoluwa Oladele
+# Hi,I'm Emmanuel Olaoluwa Oladele
 
 
 ## 🚀 About Me
